@@ -1,0 +1,28 @@
+.icon-div:hover .text {
+    color: #53ACFF;
+
+}
+
+.icon-div:hover .icon {
+    fill: #53ACFF;
+}
+
+.side {
+    width: 47px;
+
+    height: 1vh;
+    background-color: black;
+    transition: all 1.0s;
+}
+
+.side:hover {
+    width: 150px;
+}
+
+.logo {
+    width: 124px;
+    height: 54px;
+    min-height: 16.95px;
+    min-width: 30.32px;
+}
+
